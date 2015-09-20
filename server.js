@@ -62,7 +62,7 @@ io.sockets.on('connection', function (socket) {
 
 
   app.get('/', function(req, res){
-    res.render('map');
+    res.render('main2');
   });
 
   app.get('/logged', function(req, res){
