@@ -1,5 +1,5 @@
 {
-  "name": "jollalookup",
+  "name": "demo_jolla",
   "version": "0.0.0",
   "dependencies": {
     "express": "~4.10.0",
