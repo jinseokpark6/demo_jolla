@@ -1,4 +1,8 @@
 # demo_jolla
+
+JinSeok Park, Elliot Yun, MinWoo Shin, Jo Min
+
+
 Currently deployed at https://demo-jolla.herokuapp.com/
 
 For optimal performance, please use Chrome.
