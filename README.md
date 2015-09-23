@@ -8,7 +8,7 @@ Currently deployed at https://demo-jolla.herokuapp.com/
 For optimal performance, please use Chrome.
 
 The app has not been reviewed by Facebook so your personal Facebook friendlist cannot be pulled.
-The following test users has been created to see the website in action:
+The following test users have been created to see the website in action:
 
 tom_rpmydqp_test@tfbnw.net
 margaret_etehosm_bowerssky@tfbnw.net	
